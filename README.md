@@ -1,20 +1,18 @@
-# RRBNet: Offcial Pytorch Implementation
-
-
+# A Unified Approach to Stereotyped Behavior Detection for Screening Autism Spectrum Disorder - Official-Pytorch-Implementation
 
 This repository provides the official PyTorch implementation of the following paper aimed at detecting restrictive and repetitive behaviors (RRBs) :
 <img src="fig_architecture.png" width="1000">
 
-> Video-based Stereotyped Behavior Detection for Early Diagnosis of Autism Spectrum Disorder
+> A Unified Approach to Stereotyped Behavior Detection for Screening Autism Spectrum Disorder
 >
 > Abstract: -
 
 ---
 
 ## Updates
-08/04/2023: Project page built
+22/04/2024: Project page built
 
-All code related to this work will be made available. 
+All code and datasets related to this work will be made available. 
 
 ## Get Started
 - Clone this repo and install dependencies:
