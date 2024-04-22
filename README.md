@@ -1,6 +1,6 @@
 # A Unified Approach to Stereotyped Behavior Detection for Screening Autism Spectrum Disorder - Official-Pytorch-Implementation
 
-This repository provides the official PyTorch implementation of the following paper aimed at detecting restrictive and repetitive behaviors (RRBs) :
+This repository provides the official PyTorch implementation of the following paper aimed at detecting restrictive and repetitive behaviors (RRBs)
 <img src="fig_architecture.png" width="1000">
 
 > A Unified Approach to Stereotyped Behavior Detection for Screening Autism Spectrum Disorder
